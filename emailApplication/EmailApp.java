@@ -1,5 +1,4 @@
-// Youtube link of this project.
-// https://youtu.be/U3Ibvu0htNs?feature=shared
+
 
 package emailApplication;
 
